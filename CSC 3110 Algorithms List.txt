@@ -1,0 +1,29 @@
+Chapter 1: Introduction
+	Greatest Common Divisor
+		Euclids Algorithm
+		Middle School Procedure
+		Consecutive integer checking
+
+Chapter 2: Fundamentals of the Analysis of Algorithm Efficiency
+	None
+
+Chapter 3: Brute Force and Exhaustive Search
+	Selection Sort
+	Bubble Sort
+	Sequential Search
+	String Matching (Brute force O(mn) version)
+	Closest Pair
+	Exhaustive search for permutation and powerset problems
+		Traveling salesman
+		Knapsack
+		Assignment
+	Depth first search
+		connectivity
+		acyclitity
+	Breadth first search
+		connectivity
+		acyclitity
+		minimum-edge paths
+
+Chapter 4:
+	
