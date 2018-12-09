@@ -43,3 +43,18 @@ Chapter 4: Decrease and Conquer
 		Lomuto Partitioning
 		Quick select
 		Binary search tree (unbalanced)
+
+Chapter 5: Divide and Conquer
+	Mergesort
+	Hoare Partitioning
+	Quicksort
+	Binary tree traversals
+		Prefix
+		Infix
+		Postfix
+		Height
+		Depth
+	Multiplication of large integers - might be asked to analyse it
+	Strassen's matrix multiplication algorithm - might be asked to analyse it
+	
+	
