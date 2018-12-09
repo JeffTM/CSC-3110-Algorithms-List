@@ -25,5 +25,21 @@ Chapter 3: Brute Force and Exhaustive Search
 		acyclitity
 		minimum-edge paths
 
-Chapter 4:
-	
+Chapter 4: Decrease and Conquer
+	Decrease by a constant
+		insertion sort
+		topological sorting
+			DFS method
+			Deletion method
+		algorithms for generating permutations and subsets
+			minimal-change decrease-by-one algorithm
+			Johnson-Trotter
+	Descrease by a constant factor
+		binary search
+		fake-coin puzzle
+		Russian peasant multiplication
+		Josephus problem
+	Variable size decrease
+		Lomuto Partitioning
+		Quick select
+		Binary search tree (unbalanced)
