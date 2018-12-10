@@ -57,4 +57,39 @@ Chapter 5: Divide and Conquer
 	Multiplication of large integers - might be asked to analyse it
 	Strassen's matrix multiplication algorithm - might be asked to analyse it
 	
-	
+Chapter 6: Transform and Conquer
+	Instance simplification
+		presorting
+			element uniqueness
+			computing a mode
+			searching
+	representation change
+		balanced search trees - will definetely be on the exam
+		2-3 trees
+		heaps
+			top down construction
+			bottom up construction
+			max deletion
+			min deletion
+		heapsort
+		Horner's rule
+		left-to-right binary exponetiation
+		right-to-left binary exponetiation
+	problem reduction
+		LCM via GCD
+		Optimization problems
+		
+Chapter 7: Space and Time Trade-Offs
+	Preprocessing (input enhancement)
+		Comparison counting sort
+		Distribution counting sort
+		Horspool's string matching algorithm
+	Prestructuring
+		Hashing
+			Open
+			Closed
+				Linear probing
+				Double hashing
+
+Chapter 8: Dynamic programming
+	Knapsack problem
