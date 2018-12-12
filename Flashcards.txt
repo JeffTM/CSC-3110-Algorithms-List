@@ -1,0 +1,44 @@
+How do you find the answer to the Josephus problem? - Convert the number to binary and left cycle the bits
+Selection sort category - Brute force
+Bubble sort category - Brute force
+Sequential sort category - Brute force
+Simple string matching category - Brute force
+Closest pair category - Brute force
+Exhaustive search category - Brute force
+DFS and BFS category - Brute force
+Insertion sort category and subcategory - Decrease and conquer, decrease by a constant
+Topological sort category and subcategory - Decrease and conquer, decrease by a constant
+Permutation generation algorithms category and subcategory - Decrease and conquer, decrease by a constant
+Binary search category and subcategory - Decrease and conquer, decrease by a constant factor
+Fake coin category and subcategory - Decrease and conquer, decrease by a constant factor
+Russian peasant category and subcategory - Decrease and conquer, decrease by a constant factor
+Josephus problem category and subcategory - Decrease and conquer, decrease by a constant factor
+Lomuto and Hoare partitioning category and subcategory - Decrease and conquer, variable size decrease
+Quick select category and subcategory - Decrease and conquer, variable size decrease
+Binary tree search category and subcategory - Decrease and conquer, variable size decrease
+Mergesort category - Divide and conquer
+Hoare partitioning category - Decrease and conquer, variable size decrease
+Quicksort category - Divide and conquer
+Binary tree traversal category - Divide and conquer
+Multiplication of large integers category - Divide and conquer
+Strassen's Matrix Multiplication category - Divide and conquer
+Presorting element uniqueness category and subcategory - Transform and conquer, instance simplification
+Presorting computing a mode category and subcategory - Transform and conquer, instance simplification
+Presorting and binary searching category and subcategory - Transform and conquer, instance simplification
+Balanced search tree category - Transform and conquer, representation change
+2-3 tree category - Transform and conquer, representation change
+Heap category - Transform and conquer, representation change
+Heapsort category - Transform and conquer, representation change
+Horner's rule category - Transform and conquer, representation change
+left-to-right and right-to-left binary exponentiation category - Transform and conquer, representation change
+LCM via GCD category - Transform and conquer, representation change
+Optimization problem min and max substitution category - Transform and conquer, representation change
+Comparison counting sort category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
+Distribution counting sort category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
+Horspool's algorithm category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
+Hashing category and subcategory - Space and time tradeoff, prestructuring
+Knapsack problem (more efficient solution) category - Dynamic programming
+What are the 5 major algorithmic techniques we learned? - Brute force, decrease and conquer, divide and conquer, transform and conquer, space and time tradeoffs, dynamic programming
+What are the 3 categories of decrease and conquer? - Decrease by a constant, decrease by a constant factor, variable size decrease
+What are the 3 categories of transform and conquer? - Instance simplification, problem reduction, representation change
+What are the 2 categories of space and time tradeoffs? - Preprocessing, prestructuring
