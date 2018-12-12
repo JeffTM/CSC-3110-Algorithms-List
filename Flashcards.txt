@@ -31,8 +31,8 @@ Heap category - Transform and conquer, representation change
 Heapsort category - Transform and conquer, representation change
 Horner's rule category - Transform and conquer, representation change
 left-to-right and right-to-left binary exponentiation category - Transform and conquer, representation change
-LCM via GCD category - Transform and conquer, representation change
-Optimization problem min and max substitution category - Transform and conquer, representation change
+LCM via GCD category - Transform and conquer, problem reduction
+Optimization problem min and max substitution category - Transform and conquer, problem reduction
 Comparison counting sort category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
 Distribution counting sort category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
 Horspool's algorithm category and subcategory - Space and time tradeoff, preprocessing (input enhancement)
